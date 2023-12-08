@@ -68,4 +68,4 @@ Changing the binning of the APPLICATION_TYPE and CLASSIFICATION features reduced
 
 Interestingly, organization name had an effect on model performance. This makes some intuitive sense, since an organization's name is the first piece of information that is judged when considering it in any context. So, organizations with names that are more familiar or associated with things someone deems positive might be more likely to receieve funding or to move further in the funding process. This effect is also present in the job application process, to the point that many companies remove names from resumes before a human reads them in order to reduce racial bias.
 
-To identify the exact difference adding the NAME feature had on model performance, I would have to get weights for each feature before & after running the model - maybe in a future project.
+To identify the exact difference adding the NAME feature had on model performance, I would have to get weights for each feature before & after improving the model - maybe in a future project.
